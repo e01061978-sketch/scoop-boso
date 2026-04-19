@@ -1,14 +1,14 @@
 {
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Boso AI \u2014 self-hosted coding agent. Your box, your model.",
   "homepage": "https://boso.com",
   "license": "Proprietary",
-  "url": "https://ai.boso.com/releases/boso-0.0.12.pyz",
-  "hash": "7e0849983f040d0ce2a052629e850bf1df833b6eb7ad07c56c1639a4b305b70f",
+  "url": "https://ai.boso.com/releases/boso-0.0.13.pyz",
+  "hash": "726ee532a4016a731a8f744e0cfcd908e2e48535ffe80c2643437cc002800f7e",
   "depends": "python",
   "bin": [
     [
-      "boso-0.0.12.pyz",
+      "boso-0.0.13.pyz",
       "boso"
     ]
   ],
